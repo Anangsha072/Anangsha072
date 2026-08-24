@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @Anangsha072
-- Welcome to my code realm!
-- I am a passionate developer on a mission to turn lines of code into meaningful experiences.
-- 💞️ I’m looking to collaborate on this platform and build something amazing 💻🖥️⌨️ ✨
-  
-<!---
-Anangsha072/Anangsha072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey 👋, I'm Anangsha
+
+### 🚀 AI/ML Developer | Software Developer | Python | C++ | Web Development
+
+Building intelligent applications, machine learning projects,
+and full-stack web solutions.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🧠 Learning Deep Learning, CNNs, Transformers & LLMs
+- 💻 Experienced with Python, C++, JavaScript and SQL
+- 🌐 Building web applications with React, Next.js and Flask
+- 📊 Interested in Data Science and AI Engineering
+- 🚀 Always learning and building new projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • C • C++ • Java • JavaScript • SQL
+
+### AI / ML
+
+Python • NumPy • Pandas • OpenCV • TensorFlow • PyTorch
+• Scikit-learn • CNN • Deep Learning
+
+### Web Development
+
+React • Next.js • Node.js • Flask • HTML • CSS • Tailwind CSS
+
+### Tools
+
+Git • GitHub • VS Code • Docker • Google Colab
+
