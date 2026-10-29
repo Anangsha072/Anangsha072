@@ -1,109 +1,183 @@
 # Hey 👋, I'm Anangsha Das
 
-### 🚀 AI/ML Developer | Computer Vision | Software Developer
+### AI/ML Developer | Computer Vision Engineer | Software Developer
 
-Building intelligent applications with machine learning, deep learning, computer vision, and full-stack development.
+I build intelligent applications using machine learning, deep learning, computer vision, and full-stack technologies. I enjoy turning real-world problems into practical, scalable software solutions.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%2FML-Developer-7B61FF?style=for-the-badge" alt="AI ML Developer" />
+  <img src="https://img.shields.io/badge/Computer-Vision-0EA5E9?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-16A34A?style=for-the-badge" alt="Full Stack Development" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and AI Engineering
-- 🧠 Exploring Deep Learning, CNNs, Transformers, LLMs, and AI Agents
-- 👁️ Working with YOLO, OpenCV, InsightFace, and object detection systems
-- 💻 Experienced with Python, C++, Java, JavaScript, and SQL
-- 🌐 Building web applications using React, Next.js, Flask, and Node.js
-- 🛡️ Interested in AI evaluation, model quality, and safety guardrails
-- 🚀 Passionate about solving real-world problems through technology
+- 🎓 **B.Tech in Computer Science & Engineering** — KIIT, 2022–2026
+- 📊 **CGPA:** 8.64/10
+- 🤖 Experienced in machine learning, deep learning, and computer vision
+- 👁️ Working with YOLO, OpenCV, InsightFace, and object tracking
+- 🧠 Exploring LLMs, RAG, AI agents, and model evaluation
+- 💻 Building applications with Python, Java, JavaScript, React, and Flask
+- 🛠️ Interested in AI engineering, software development, and production-ready ML systems
+- 🚀 Focused on continuous learning and building solutions to real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" alt="Python, Java, C, C++, JavaScript, TypeScript" />
+</p>
 
-`Python` • `C` • `C++` • `Java` • `JavaScript` • `TypeScript` • `SQL`
+### AI, Machine Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow, PyTorch, OpenCV" />
+</p>
 
-### AI / ML & Computer Vision
-
-`NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `PyTorch` • `OpenCV` • `YOLOv8` • `YOLO11` • `InsightFace` • `CNNs` • `Deep Learning`
+`NumPy` · `Pandas` · `Scikit-learn` · `YOLOv8` · `YOLO11` · `InsightFace` · `CNNs` · `GANs` · `Object Detection` · `Object Tracking` · `Facial Embeddings`
 
 ### Web Development & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,fastapi,tailwind" alt="Web development technologies" />
+</p>
 
-`React` • `Next.js` • `Node.js` • `Express.js` • `Flask` • `FastAPI` • `HTML` • `CSS` • `Tailwind CSS` • `REST APIs`
+`REST APIs` · `JWT Authentication` · `SQLAlchemy` · `Prisma`
 
-### Databases
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,docker,postman" alt="Databases and development tools" />
+</p>
 
-`PostgreSQL` • `MySQL` • `SQLite` • `SQLAlchemy` • `Prisma`
-
-### Tools & Platforms
-
-`Git` • `GitHub` • `VS Code` • `Docker` • `Google Colab` • `Jupyter Notebook` • `Postman`
+`Google Colab` · `Jupyter Notebook` · `OpenStreetMap API`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔥 Fire & Smoke Detection
-YOLO-based computer vision system for detecting fire and smoke in images and videos.
+A YOLO-based computer vision system for detecting fire and smoke in images and video streams.
 
-**Tech:** Python, YOLO, OpenCV, Deep Learning
+- Object detection for fire and smoke scenarios
+- Model training, dataset preparation, and evaluation
+- Video inference using OpenCV
 
-🔗 [View Repository](https://github.com/Anangsha072/fire-smoke-detector)
+**Tech:** Python · YOLO · OpenCV · Deep Learning
 
-### 🚗 Vehicle Counting System
-Vehicle detection and tracking system designed to count vehicles crossing predefined lines while minimizing duplicate counts.
+[**View Repository →**](https://github.com/Anangsha072/fire-smoke-detector)
 
-**Tech:** Python, YOLO11, ByteTrack, OpenCV
+---
 
-🔗 [View Repository](https://github.com/Anangsha072/Vehicle-counter-prototype)
+### 🚗 Vehicle Counting & Tracking
+A computer vision system that detects and tracks vehicles as they cross predefined counting lines.
+
+- Vehicle detection using YOLO11
+- Tracking with ByteTrack
+- Direction-based counting to reduce duplicate counts
+
+**Tech:** Python · YOLO11 · ByteTrack · OpenCV
+
+[**View Repository →**](https://github.com/Anangsha072/Vehicle-counter-prototype)
+
+---
 
 ### 🧑‍💻 Face Identification System
-Face detection and identification pipeline using facial embeddings and cosine similarity for matching known faces.
+A face identification pipeline that matches detected faces against a collection of known identities using facial embeddings.
 
-**Tech:** Python, YOLOv8, InsightFace, OpenCV, SQLite
+- Face detection using YOLOv8
+- Facial feature embeddings using InsightFace
+- Identity matching using cosine similarity
+- SQLite-based storage of identity metadata
 
-🔗 [View Repository](https://github.com/Anangsha072/face-identification-using-yolo)
+**Tech:** Python · YOLOv8 · InsightFace · OpenCV · SQLite
+
+[**View Repository →**](https://github.com/Anangsha072/face-identification-using-yolo)
+
+---
 
 ### 🖼️ Image Inpainting Using GANs
-Deep learning project that reconstructs missing image regions using a generator-discriminator architecture.
+A deep learning project that reconstructs missing or masked regions of images using a generator-discriminator architecture.
 
-**Tech:** Python, GANs, Deep Learning, SSIM, PSNR
+- GAN-based image reconstruction
+- Training with reconstruction and adversarial losses
+- Image quality evaluation using SSIM and PSNR
 
-🔗 [View Repository](https://github.com/Anangsha072/Image-Inpainting)
+**Tech:** Python · GANs · Deep Learning · Image Processing
+
+[**View Repository →**](https://github.com/Anangsha072/Image-Inpainting)
+
+---
 
 ### 🏥 HealthService App
-Full-stack healthcare locator for finding nearby hospitals, doctors, and other medical services through location-based search.
+A full-stack healthcare locator that helps users find nearby healthcare services based on location and service type.
 
-**Tech:** Python, Flask, PostgreSQL, SQLAlchemy, OpenStreetMap API
+- User registration and login with password hashing
+- Location-based healthcare search with configurable radius
+- Integration with OpenStreetMap Overpass API
+- PostgreSQL database integration and database migrations
 
-🔗 [Explore My Repositories](https://github.com/Anangsha072)
+**Tech:** Python · Flask · PostgreSQL · SQLAlchemy · OpenStreetMap API
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true" alt="Anangsha's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Anangsha072&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+[**Explore My GitHub →**](https://github.com/Anangsha072)
 
 ---
 
-## 🤝 Connect With Me
+## 💼 Experience
+
+### AI Intern — Coactive IT Solutions Pvt. Ltd.
+*May 2026 – Present*
+
+- Work on deep learning and computer vision solutions using YOLO-based detection systems.
+- Contribute to dataset annotation, model training, and evaluation workflows.
+- Work on use cases including fire and smoke detection, vehicle counting, and handwritten digit recognition using CNNs.
+
+### AI Intern — Coactive IT Solutions Pvt. Ltd.
+*May 2025 – June 2025*
+
+- Worked with machine learning, deep learning, and computer vision concepts.
+- Gained practical experience with YOLO-based object detection workflows.
+
+### Intel Unnati Industrial Training Program
+*May 2024 – July 2024*
+
+- Developed a full-stack public services application using Flask and SQL.
+- Integrated location-based service discovery using the OpenStreetMap Overpass API.
+- Worked on backend logic, database integration, and application functionality.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=Anangsha072&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/Anangsha072">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <!-- Replace the URL below with your actual LinkedIn profile before enabling this badge. -->
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Learn continuously. Build thoughtfully. Solve real problems.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,100:302B63&height=120&section=footer" width="100%" alt="Decorative footer banner" />
 </p>
 
 ---
