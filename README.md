@@ -120,22 +120,47 @@ A deep learning project that reconstructs missing image regions using a generato
   <b>AI / ML:</b> NumPy · Pandas · Scikit-learn · TensorFlow · PyTorch · YOLO · OpenCV · InsightFace
 </p>
 
-## 📈 GitHub activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anangsha072&theme=tokyonight&hide_border=true&background=0D1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" width="70%" alt="GitHub contribution streak" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC"
+    height="165"
+    alt="Most used programming languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC" height="165" alt="Most used languages" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Anangsha072&theme=tokyonight&hide_border=true&background=0D1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC"
+    alt="GitHub contribution streak"
+  />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" width="100%" />
-</picture>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ## 🤝 Connect with me
 
