@@ -15,7 +15,6 @@ I build intelligent applications using machine learning, deep learning, computer
 ## 👩‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** — KIIT, 2022–2026
-- 📊 **CGPA:** 8.64/10
 - 🤖 Experienced in machine learning, deep learning, and computer vision
 - 👁️ Working with YOLO, OpenCV, InsightFace, and object tracking
 - 🧠 Exploring LLMs, RAG, AI agents, and model evaluation
