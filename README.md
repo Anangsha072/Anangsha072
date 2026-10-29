@@ -21,7 +21,6 @@
 class AnangshaDas:
     role = "AI/ML Developer"
     education = "B.Tech CSE | 2022–2026"
-    cgpa = "8.64/10"
 
     focus = [
         "Machine Learning",
