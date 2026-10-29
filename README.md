@@ -55,9 +55,9 @@ A YOLO-based computer vision system for detecting fire and smoke in images and v
 
 ### [🚗 Vehicle Counting System](https://github.com/Anangsha072/Vehicle-counter-prototype)
 
-Detects and tracks vehicles crossing predefined lines, with direction-based counting to reduce duplicate counts.
+Detects and tracks vehicles crossing predefined lines, using direction-based counting to reduce duplicate counts.
 
-**Focus:** Real-time detection, object tracking, and line-crossing logic.
+**Focus:** Object detection, multi-object tracking, and line-crossing logic.
 
 `YOLO11` `ByteTrack` `OpenCV`
 
@@ -81,7 +81,7 @@ A face identification pipeline combining face detection, facial embeddings, and 
 
 A deep learning project that reconstructs missing image regions using a generator-discriminator architecture.
 
-**Focus:** Image reconstruction, adversarial learning, and quality evaluation.
+**Focus:** Image reconstruction, adversarial learning, and image quality evaluation.
 
 `Python` `GANs` `SSIM` `PSNR`
 
@@ -95,9 +95,9 @@ A deep learning project that reconstructs missing image regions using a generato
 
 | Project | What |
 |---|---|
-| [🏥 HealthService App](https://github.com/Anangsha072) | Full-stack healthcare locator using Flask, PostgreSQL, and OpenStreetMap |
-| [📋 Task Management](https://github.com/Anangsha072) | Task-management application using web technologies and backend APIs |
-| [🔬 Explore all repositories](https://github.com/Anangsha072?tab=repositories) | More projects and experiments in software development and AI |
+| [🏥 HealthService App](https://github.com/Anangsha072?tab=repositories) | Full-stack healthcare locator using Flask, PostgreSQL, and OpenStreetMap |
+| [📋 Task Management](https://github.com/Anangsha072?tab=repositories) | Task management application using web technologies and backend APIs |
+| [🔬 All repositories](https://github.com/Anangsha072?tab=repositories) | Explore my AI/ML and software development projects |
 
 </details>
 
@@ -106,14 +106,14 @@ A deep learning project that reconstructs missing image regions using a generato
 - **AI Intern — Coactive IT Solutions Pvt. Ltd.** · May 2026–Present  
   Deep learning and computer vision workflows, including YOLO-based detection, dataset annotation, model training, and evaluation.
 - **AI Intern — Coactive IT Solutions Pvt. Ltd.** · May–June 2025  
-  Practical work with machine learning, deep learning, and computer vision.
+  Practical experience with machine learning, deep learning, and computer vision.
 - **Intel Unnati Industrial Training Program** · May–July 2024  
-  Full-stack public services application using Flask, SQL, and OpenStreetMap data.
+  Developed a full-stack public services application using Flask, SQL, and the OpenStreetMap Overpass API.
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,flask,fastapi,html,css,tailwind,postgres,mysql,sqlite,docker,git,github,vscode&perline=7" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,express,html,css,tailwind,postgres,mysql,sqlite,docker,git,github,vscode&perline=7" alt="Technology stack icons" />
 </p>
 
 <p align="center">
@@ -131,14 +131,10 @@ A deep learning project that reconstructs missing image regions using a generato
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC" height="165" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <i>Contribution snake animation appears here after you configure the GitHub Actions workflow described below.</i>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" width="100%" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" width="100%" />
 </picture>
 
 ## 🤝 Connect with me
