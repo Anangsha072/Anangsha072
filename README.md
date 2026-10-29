@@ -1,190 +1,157 @@
-# Hey 👋, I'm Anangsha Das
+ <div align="center">
 
-### AI/ML Developer | Computer Vision Engineer | Software Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=180&section=header&text=Anangsha%20Das&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Anangsha Das header" />
 
-I build intelligent applications using machine learning, deep learning, computer vision, and full-stack technologies. I enjoy turning real-world problems into practical, scalable software solutions.
+<a href="https://github.com/Anangsha072">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Training+YOLO+models+for+real-world+vision+tasks+%F0%9F%91%81%EF%B8%8F;Exploring+deep+learning+and+intelligent+systems+%F0%9F%A7%A0;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing introduction" />
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%2FML-Developer-7B61FF?style=for-the-badge" alt="AI ML Developer" />
-  <img src="https://img.shields.io/badge/Computer-Vision-0EA5E9?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-16A34A?style=for-the-badge" alt="Full Stack Development" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 **B.Tech in Computer Science & Engineering** — KIIT, 2022–2026
-- 🤖 Experienced in machine learning, deep learning, and computer vision
-- 👁️ Working with YOLO, OpenCV, InsightFace, and object tracking
-- 🧠 Exploring LLMs, RAG, AI agents, and model evaluation
-- 💻 Building applications with Python, Java, JavaScript, React, and Flask
-- 🛠️ Interested in AI engineering, software development, and production-ready ML systems
-- 🚀 Focused on continuous learning and building solutions to real-world problems
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" alt="Python, Java, C, C++, JavaScript, TypeScript" />
+  <a href="https://github.com/Anangsha072">
+    <img src="https://img.shields.io/badge/GitHub-Anangsha072-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/AI%2FML-Developer-302b63?style=for-the-badge" alt="AI ML Developer" />
+  <img src="https://img.shields.io/badge/Computer-Vision-24c6dc?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://komarev.com/ghpvc/?username=Anangsha072&style=for-the-badge&color=0f0c29&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-### AI, Machine Learning & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow, PyTorch, OpenCV" />
-</p>
+</div>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `YOLOv8` · `YOLO11` · `InsightFace` · `CNNs` · `GANs` · `Object Detection` · `Object Tracking` · `Facial Embeddings`
+```python
+class AnangshaDas:
+    role = "AI/ML Developer"
+    education = "B.Tech CSE | 2022–2026"
+    cgpa = "8.64/10"
 
-### Web Development & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,fastapi,tailwind" alt="Web development technologies" />
-</p>
+    focus = [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Full-Stack Development"
+    ]
 
-`REST APIs` · `JWT Authentication` · `SQLAlchemy` · `Prisma`
+    tools = ["Python", "YOLO", "OpenCV", "PyTorch", "Flask"]
+    exploring = ["LLMs", "RAG", "AI Agents", "Model Evaluation"]
 
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,docker,postman" alt="Databases and development tools" />
-</p>
+    goal = "Build practical AI systems that solve real problems."
+```
 
-`Google Colab` · `Jupyter Notebook` · `OpenStreetMap API`
+## 🤖 What I'm building
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### [🔥 Fire & Smoke Detection](https://github.com/Anangsha072/fire-smoke-detector)
 
-### 🔥 Fire & Smoke Detection
-A YOLO-based computer vision system for detecting fire and smoke in images and video streams.
+A YOLO-based computer vision system for detecting fire and smoke in images and video.
 
-- Object detection for fire and smoke scenarios
-- Model training, dataset preparation, and evaluation
-- Video inference using OpenCV
+**Focus:** Object detection, dataset preparation, model training, and video inference.
 
-**Tech:** Python · YOLO · OpenCV · Deep Learning
+`Python` `YOLO` `OpenCV`
 
-[**View Repository →**](https://github.com/Anangsha072/fire-smoke-detector)
+</td>
+<td width="50%" valign="top">
 
----
+### [🚗 Vehicle Counting System](https://github.com/Anangsha072/Vehicle-counter-prototype)
 
-### 🚗 Vehicle Counting & Tracking
-A computer vision system that detects and tracks vehicles as they cross predefined counting lines.
+Detects and tracks vehicles crossing predefined lines, with direction-based counting to reduce duplicate counts.
 
-- Vehicle detection using YOLO11
-- Tracking with ByteTrack
-- Direction-based counting to reduce duplicate counts
+**Focus:** Real-time detection, object tracking, and line-crossing logic.
 
-**Tech:** Python · YOLO11 · ByteTrack · OpenCV
+`YOLO11` `ByteTrack` `OpenCV`
 
-[**View Repository →**](https://github.com/Anangsha072/Vehicle-counter-prototype)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### [🧑‍💻 Face Identification](https://github.com/Anangsha072/face-identification-using-yolo)
 
-### 🧑‍💻 Face Identification System
-A face identification pipeline that matches detected faces against a collection of known identities using facial embeddings.
+A face identification pipeline combining face detection, facial embeddings, and similarity-based matching.
 
-- Face detection using YOLOv8
-- Facial feature embeddings using InsightFace
-- Identity matching using cosine similarity
-- SQLite-based storage of identity metadata
+**Focus:** Face detection, embedding extraction, cosine similarity, and identity metadata.
 
-**Tech:** Python · YOLOv8 · InsightFace · OpenCV · SQLite
+`YOLOv8` `InsightFace` `SQLite`
 
-[**View Repository →**](https://github.com/Anangsha072/face-identification-using-yolo)
+</td>
+<td width="50%" valign="top">
 
----
+### [🖼️ Image Inpainting Using GANs](https://github.com/Anangsha072/Image-Inpainting)
 
-### 🖼️ Image Inpainting Using GANs
-A deep learning project that reconstructs missing or masked regions of images using a generator-discriminator architecture.
+A deep learning project that reconstructs missing image regions using a generator-discriminator architecture.
 
-- GAN-based image reconstruction
-- Training with reconstruction and adversarial losses
-- Image quality evaluation using SSIM and PSNR
+**Focus:** Image reconstruction, adversarial learning, and quality evaluation.
 
-**Tech:** Python · GANs · Deep Learning · Image Processing
+`Python` `GANs` `SSIM` `PSNR`
 
-[**View Repository →**](https://github.com/Anangsha072/Image-Inpainting)
+</td>
+</tr>
+</table>
 
----
+<details>
+<summary><b>🧪 More projects</b></summary>
+<br/>
 
-### 🏥 HealthService App
-A full-stack healthcare locator that helps users find nearby healthcare services based on location and service type.
+| Project | What |
+|---|---|
+| [🏥 HealthService App](https://github.com/Anangsha072) | Full-stack healthcare locator using Flask, PostgreSQL, and OpenStreetMap |
+| [📋 Task Management](https://github.com/Anangsha072) | Task-management application using web technologies and backend APIs |
+| [🔬 Explore all repositories](https://github.com/Anangsha072?tab=repositories) | More projects and experiments in software development and AI |
 
-- User registration and login with password hashing
-- Location-based healthcare search with configurable radius
-- Integration with OpenStreetMap Overpass API
-- PostgreSQL database integration and database migrations
-
-**Tech:** Python · Flask · PostgreSQL · SQLAlchemy · OpenStreetMap API
-
-[**Explore My GitHub →**](https://github.com/Anangsha072)
-
----
+</details>
 
 ## 💼 Experience
 
-### AI Intern — Coactive IT Solutions Pvt. Ltd.
-*May 2026 – Present*
+- **AI Intern — Coactive IT Solutions Pvt. Ltd.** · May 2026–Present  
+  Deep learning and computer vision workflows, including YOLO-based detection, dataset annotation, model training, and evaluation.
+- **AI Intern — Coactive IT Solutions Pvt. Ltd.** · May–June 2025  
+  Practical work with machine learning, deep learning, and computer vision.
+- **Intel Unnati Industrial Training Program** · May–July 2024  
+  Full-stack public services application using Flask, SQL, and OpenStreetMap data.
 
-- Work on deep learning and computer vision solutions using YOLO-based detection systems.
-- Contribute to dataset annotation, model training, and evaluation workflows.
-- Work on use cases including fire and smoke detection, vehicle counting, and handwritten digit recognition using CNNs.
-
-### AI Intern — Coactive IT Solutions Pvt. Ltd.
-*May 2025 – June 2025*
-
-- Worked with machine learning, deep learning, and computer vision concepts.
-- Gained practical experience with YOLO-based object detection workflows.
-
-### Intel Unnati Industrial Training Program
-*May 2024 – July 2024*
-
-- Developed a full-stack public services application using Flask and SQL.
-- Integrated location-based service discovery using the OpenStreetMap Overpass API.
-- Worked on backend logic, database integration, and application functionality.
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Tech stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,flask,fastapi,html,css,tailwind,postgres,mysql,sqlite,docker,git,github,vscode&perline=7" alt="Technology stack icons" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Anangsha072&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <b>AI / ML:</b> NumPy · Pandas · Scikit-learn · TensorFlow · PyTorch · YOLO · OpenCV · InsightFace
 </p>
 
----
+## 📈 GitHub activity
 
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anangsha072&theme=tokyonight&hide_border=true&background=0D1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" width="70%" alt="GitHub contribution streak" />
+</p>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anangsha072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC&icon_color=24C6DC" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anangsha072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=24C6DC" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <i>Contribution snake animation appears here after you configure the GitHub Actions workflow described below.</i>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Anangsha072/Anangsha072/output/github-snake.svg" width="100%" />
+</picture>
+
+## 🤝 Connect with me
+
+<p>
   <a href="https://github.com/Anangsha072">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace the URL below with your actual LinkedIn profile before enabling this badge. -->
-</p>
-
----
-
-<p align="center">
-  💡 <i>Learn continuously. Build thoughtfully. Solve real problems.</i>
+  <!-- Add your actual LinkedIn profile URL and badge here. -->
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,100:302B63&height=120&section=footer" width="100%" alt="Decorative footer banner" />
+  <i>Keep learning. Keep building. Make technology useful.</i>
 </p>
 
----
-
-<p align="center">
-  💡 <i>Keep learning, keep building, and turn ideas into reality.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,100:302B63&height=100&section=footer" width="100%" alt="Footer banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer banner" />
