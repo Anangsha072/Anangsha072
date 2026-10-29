@@ -9,7 +9,6 @@ Building intelligent applications with machine learning, deep learning, computer
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2022–2026)
-- 📊 CGPA: 8.64
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and AI Engineering
 - 🧠 Exploring Deep Learning, CNNs, Transformers, LLMs, and AI Agents
 - 👁️ Working with YOLO, OpenCV, InsightFace, and object detection systems
